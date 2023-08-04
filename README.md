@@ -28,6 +28,7 @@ Use the arrow keys to navigate the snake and try to eat as much food as possible
 2. Ability to restart the game after collisions
 
 ## Game Snaps
-![Start of the game](assets.Start.png)
+![Start of the game](https://github.com/sahildayal/SnakeS/blob/main/assets/Start.png)
+![End of the game](https://github.com/sahildayal/SnakeS/blob/main/assets/Gameover.png)
 
 
